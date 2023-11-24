@@ -16,7 +16,7 @@
 - Automatically deploy and configure server stack
 - Deploy and test TODO application
 
-![picture](https://avatars.mds.yandex.net/get-images-cbir/2902938/gCSI3-IpvQBTGP4V4S3EWQ478/ocr)
+![picture](https://i.imgur.com/kFDBeZ0.jpeg)
 --------------------------------------------------
 _note_
 
