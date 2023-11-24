@@ -13,7 +13,7 @@ mysql -p=yourpassword -u "root" -Bse "CREATE USER 'username'@'localhost' IDENTIF
 mysql -p=yourpassword -u "root" -Bse "GRANT ALL PRIVILEGES ON *.* TO 'username'@'localhost' WITH GRANT OPTION;"
 mysqladmin -u username -pyourpassword create dbname
 
-rm /var/www/html/index.thml
+rm /var/www/html/index.html
 mv ./LAMP_TODO/* /var/www/html/
 
 curl 127.0.0.1/install.php
